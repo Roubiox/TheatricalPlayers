@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StatementPrinterTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-05T16:54:02" hostname="DESKTOP-GA9257J" time="0.24">
+  <properties/>
+  <testcase name="exampleStatement()" classname="StatementPrinterTests" time="0.24"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
